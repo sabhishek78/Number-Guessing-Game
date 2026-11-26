@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+#title {
+    margin: 0 auto;
+}
+
+#background {
+    margin-top: 20px;
+    height: 600px;
+    width: 1200px;
+    background-image: url("images/brightChamps.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
